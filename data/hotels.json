@@ -1,14 +1,22 @@
 [
     {
         "id": 1,
-        "name": "sheraton"
+        "name": "Cox's Bazar"
     },
     {
         "id": 2,
-        "name": "guru"
+        "name": "Seintmartin"
     },
     {
         "id": 3,
-        "name": "garden"
+        "name": "Sundarbans"
+    },
+    {
+        "id": 4,
+        "name": "Rangamati"
+    },
+    {
+        "id": 5,
+        "name": "Bandarban"
     }
 ]
