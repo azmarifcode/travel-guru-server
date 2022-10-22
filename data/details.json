@@ -1,0 +1,92 @@
+[
+    {
+        "id": "6353ebe8468b56e380875904",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 158,
+        "night": 69,
+        "rating": 4.9,
+        "category_id": 1,
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "about": "Duis tempor proident do fugiat. Ullamco fugiat consectetur deserunt et fugiat eu sint amet nisi sunt quis fugiat. Adipisicing aliqua aliquip anim qui laboris. Proident ut aliquip labore sunt ullamco"
+    },
+    {
+        "id": "6353ebe87bf15134770ea466",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 154,
+        "night": 23,
+        "rating": 4.8,
+        "category_id": 1,
+        "title": "Apartment in Lost Panorama",
+        "about": "Commodo est commodo officia cillum officia deserunt duis cillum proident ea labore. Aute eiusmod magna velit consequat fugiat deserunt ipsum fugiat pariatur. Laborum labore cillum ipsum esse quis veniam"
+    },
+    {
+        "id": "6353ebe594fa5c9327521f48",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 454,
+        "night": 25,
+        "rating": 4.4,
+        "category_id": 1,
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "about": "Anim laboris minim irure aliquip culpa sit pariatur adipisicing excepteur dolore qui. Reprehenderit culpa officia exercitation qui exercitation velit velit id pariatur ipsum sit anim. Id sit enim adipisicing"
+    },
+    {
+        "id": "6353ebe8e9cedffa3ea4452a",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 548,
+        "night": 26,
+        "rating": 4.7,
+        "category_id": 2,
+        "title": "Minim duis ea duis commodo ex",
+        "about": "Minim commodo in deserunt fugiat est ullamco eu. Officia minim ea laboris fugiat. Tempor Lorem labore laborum ad enim."
+    },
+    {
+        "id": "6353ebe8931215b881a815f6",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 857,
+        "night": 29,
+        "rating": 4.5,
+        "category_id": 2,
+        "title": "Est aute minim incididunt Lorem occaecat elit",
+        "about": "Ea et minim laboris quis. Sit exercitation nisi labore exercitation aliqua do aliqua cupidatat officia consequat non nulla. Commodo nostrud deserunt velit ipsum adipisicing reprehenderit id."
+    },
+    {
+        "id": "6353ebe8756bc8c2f1dbd463",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 784,
+        "night": 45,
+        "rating": 4.3,
+        "category_id": 2,
+        "title": "Elit est laboris pariatur dolor.",
+        "about": "Quis ea quis magna laboris laboris cillum laborum culpa consectetur id eu Lorem dolor aliqua. Anim proident est et sint fugiat"
+    },
+    {
+        "id": "6353ebe8451b512ac76431ba",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 456,
+        "night": 38,
+        "rating": 4.4,
+        "category_id": 3,
+        "title": "Aute quis cillum veniam adipisicing in esse ut.",
+        "about": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    },
+    {
+        "id": "6353ebe8251b512ac76431ba",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 476,
+        "night": 57,
+        "rating": 4.6,
+        "category_id": 3,
+        "title": "gftrf Aute quis cillum veniam adipisicing in esse",
+        "about": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing consectetur"
+    },
+    {
+        "id": "6353ebe8151b512ac77431ba",
+        "picture": "https://api.lorem.space/image/house?w=150&h=150",
+        "total": 413,
+        "night": 56,
+        "rating": 4.2,
+        "category_id": 3,
+        "title": "Aute quis cillum veniam adipisicing in esse ut. Con",
+        "about": "Culpa adipisicing est anim tempor Lorem dolore ipsum. Aliqua occaecat eiusmod aliquip minim exercitation et enim adipisicing"
+    }
+]
