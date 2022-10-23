@@ -4,35 +4,35 @@ const app = express();
 const port = process.env.PORT || 5000;
 app.use(cors());
 
-const hotels = require('./data/hotels.json');
+const places = require('./data/places.json');
 app.get('/', (req, res) => {
     res.send('travel guru server is running');
 });
 
-app.get('/hotels', (req, res) => {
-    res.send(hotels);
+app.get('/places', (req, res) => {
+    res.send(places);
+});
+
+app.get('/places/:id', (req, res) => {
+    const id = req.params.id;
+    const place = places.find((ht) => ht.id == id);
+    res.send(place);
+});
+
+const hotels = require('./data/hotels.json');
+app.get('/', (req, res) => {
+    res.send('hotels api running');
 });
 
 app.get('/hotels/:id', (req, res) => {
-    const id = parseInt(req.params.id);
-    const hotel = hotels.find((ht) => ht.id === id);
+    const id = req.params.id;
+    const hotel = hotels.filter((n) => n.category_id == id);
+    console.log(hotel);
     res.send(hotel);
 });
 
-const details = require('./data/details.json');
-app.get('/', (req, res) => {
-    res.send('details api running');
-});
-
-app.get('/details/:id', (req, res) => {
-    const id = req.params.id;
-    const detail = details.find((n) => n.id == id);
-    console.log(detail);
-    res.send(detail);
-});
-
-app.get('/details', (req, res) => {
-    res.send(details);
+app.get('/hotels', (req, res) => {
+    res.send(hotels);
 });
 
 app.listen(port, () => {

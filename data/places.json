@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "image": "https://api.lorem.space/image/house?w=150&h=150"
+    },
+    {
+        "id": 2,
+        "name": "Seintmartin",
+        "image": "https://api.lorem.space/image/house?w=150&h=150"
+    },
+    {
+        "id": 3,
+        "name": "Sundarbans",
+        "image": "https://api.lorem.space/image/house?w=150&h=150"
+    },
+    {
+        "id": 4,
+        "name": "Rangamati",
+        "image": "https://api.lorem.space/image/house?w=150&h=150"
+    },
+    {
+        "id": 5,
+        "name": "Bandarban",
+        "image": "https://api.lorem.space/image/house?w=150&h=150"
+    }
+]
